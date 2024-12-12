@@ -1,1 +1,0 @@
-this is a practice repo for learning git commands.
