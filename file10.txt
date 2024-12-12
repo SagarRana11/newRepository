@@ -1,4 +1,8 @@
 this is file 10 from Master branch.
 
 
+<<<<<<< HEAD
 Sagar from Master branch
+=======
+Sagar from Greeting branch
+>>>>>>> origin/greeting
