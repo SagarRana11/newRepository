@@ -1,22 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e1cccf7 (Revert "Sagar from Master branch")
 this is file 10 from Master branch.
 
 
-<<<<<<< HEAD
 Sagar from Master branch
-=======
-Sagar from Greeting branch
->>>>>>> origin/greeting
-<<<<<<< HEAD
-=======
-this is file 10 from Master branch.
->>>>>>> parent of 0b8f5c1 (Sagar from Master branch)
-=======
-this is file 10 from Master branch.
->>>>>>> parent of 0b8f5c1 (Sagar from Master branch)
-=======
->>>>>>> parent of e1cccf7 (Revert "Sagar from Master branch")
