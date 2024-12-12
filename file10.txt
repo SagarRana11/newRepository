@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is file 10 from Master branch.
 
 
@@ -6,3 +7,6 @@ Sagar from Master branch
 =======
 Sagar from Greeting branch
 >>>>>>> origin/greeting
+=======
+this is file 10 from Master branch.
+>>>>>>> parent of 0b8f5c1 (Sagar from Master branch)
